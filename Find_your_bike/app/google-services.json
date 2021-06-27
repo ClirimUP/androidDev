@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "286410031105",
+    "project_id": "findyourbike-8f5d8",
+    "storage_bucket": "findyourbike-8f5d8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:286410031105:android:11ab53bde812b94ab0c000",
+        "android_client_info": {
+          "package_name": "com.example.find_your_bike"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "286410031105-j05ntpl7rt5e2r2uckkcotp1fk9i9dli.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLHrzS81oFk3u8r7guulxPQyK2c2-wtFI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "286410031105-j05ntpl7rt5e2r2uckkcotp1fk9i9dli.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
